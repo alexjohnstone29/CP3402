@@ -1,4 +1,4 @@
-# Week 5
+# Week 6
 ## Learning Activities & Resources
 This week was about group setup for the second assignment <br>
 I used [Underscores | A Starter Theme for WordPress](https://underscores.me/) to create an almost blank starter theme and [WordPress/theme-test-data: Theme Test Data](https://github.com/WordPress/theme-test-data) to generate the test data for the theme to work on
